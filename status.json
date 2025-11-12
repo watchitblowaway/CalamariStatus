@@ -1,5 +1,4 @@
 {
-  "lastUpdated": "",
   "products": [
     {
       "name": "Calamari Fortnite",
@@ -7,11 +6,11 @@
     },
     {
       "name": "Calamari Rust",
-      "status": "updating"
+      "status": "testing"
     },
     {
       "name": "Calamari R6",
-      "status": "updating"
+      "status": "testing"
     }
   ]
 }
